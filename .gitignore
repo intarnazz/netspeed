@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Содержимое папок логов и загрузок не коммитим, кроме скриптов очистки
+logs/*
+!logs/.clean_logs.py
+downloads/*
+!downloads/.clean_downloads.py

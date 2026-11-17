@@ -1,0 +1,6 @@
+# Список адресов для: python netspeed.py --file urls.txt
+# По одному адресу в строке. Пустые строки и строки с # игнорируются.
+# Замените примеры на свои адреса.
+
+https://speed.hetzner.de/100MB.bin
+https://proof.ovh.net/files/10Mb.dat
